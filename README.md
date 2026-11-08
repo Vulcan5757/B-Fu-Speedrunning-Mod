@@ -1,4 +1,4 @@
-This is an automatic in game timer for speedrunning Boomerang Fu. It's quite accurate but sometimes be 1-2 frames off. 
+This is an automatic in game timer for speedrunning Boomerang Fu. It's quite accurate but can sometimes be 1-2 frames off. 
 It also comes with a fast reset built into it. Press + on controller to quick reset to the character select screen. 
 
 This mod requires BepInEx installed for it to work: https://docs.bepinex.dev/articles/user_guide/installation/index.html
