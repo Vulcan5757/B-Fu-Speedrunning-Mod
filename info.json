@@ -1,0 +1,9 @@
+{
+  "id": "modmanager",
+  "name": "Mod Manager",
+  "author": "Vulcan57",
+  "version": "1.0.0",
+  "description": "Allows you to enable & disable mods in game (with controller support).",
+  "preview": "preview.png",
+  "repository": "Vulcan5757/B-Fu-Mod-Manager"
+}
