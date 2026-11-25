@@ -1,3 +1,4 @@
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/b5cc321c-f163-44a1-9c55-e1cf02e787a0" />
 This is an automatic in game timer for speedrunning Boomerang Fu. It auto starts and stops the timer based on the timing for the game's speedrun.com page. It's quite accurate but can sometimes be a couple of frames off. 
 
 It also comes with a fast reset built into it. Press + on controller to quick reset to the character select screen. 
